@@ -1,6 +1,57 @@
 # Nagula Vinay Reddy - Portfolio Website
 
-A modern, responsive portfolio website showcasing my skills as a Java Full Stack Developer.
+> **Java Full Stack Developer | AI/ML Enthusiast | Cloud Solutions Architect**
+
+A modern, responsive portfolio website showcasing my expertise in Java development, AI-powered applications, and cloud technologies. Currently pursuing Master's in Computer Science at University of Central Missouri with 1+ years of professional experience at JP Morgan Chase & Co.
+
+## About This Portfolio
+
+This portfolio demonstrates my journey as a **Java Full Stack Developer** with expertise in:
+- **Backend Development**: Spring Boot, Microservices, REST APIs
+- **Frontend Development**: React, Angular, JavaScript
+- **AI/ML Integration**: NLP, Vector Search, Machine Learning
+- **Cloud Technologies**: AWS, GCP, Docker, Kubernetes
+- **Database Management**: PostgreSQL, MongoDB, Redis
+
+## Key Highlights
+
+### Professional Experience
+- **Software Engineer** at JP Morgan Chase & Co (2023-2024)
+- **1+ Years** of industry experience
+- **8,000+ Lines** of production code contributed
+- **30% Performance Improvement** achieved through optimization
+
+### Featured Project: AI Resume Matcher
+- **Full-stack AI application** using sentence transformers and FAISS vector search
+- **95% accuracy** in semantic job matching
+- **Microservices architecture** with Spring Boot, Python, React, and PostgreSQL
+- **Docker Compose** deployment with automated CI/CD pipelines
+
+### Certifications
+- **Oracle Certified Professional: Java SE 17 Developer**
+- **Java Certified Foundations Associate**
+- **Oracle Database SQL Certified Associate**
+- **AWS Certified Cloud Practitioner**
+
+## Technical Skills
+
+### Programming Languages
+- Java, Python, JavaScript, DSA
+
+### Backend Technologies
+- Spring Boot, Hibernate, Microservices, JDBC, Node.js
+
+### Frontend Technologies
+- React, Angular, HTML5, CSS3, JSP
+
+### Databases
+- MySQL, PostgreSQL, MongoDB, Redis
+
+### Cloud & DevOps
+- AWS, GCP, Docker, Kubernetes, Jenkins
+
+### Tools & APIs
+- RESTful APIs, GraphQL, Git, GitLab CI/CD, Bootstrap
 
 ## Features
 
@@ -101,10 +152,7 @@ This portfolio template is free to use and modify for personal and commercial pr
 ## Contact
 
 - **Email**: vinayreddy4424@gmail.com
-- **Phone**: +1 9133265666
 - **Location**: Overland Park, Kansas
 - **LinkedIn**: [linkedin.com/in/vinayreddy4424](https://linkedin.com/in/vinayreddy4424)
 
----
 
-Built with ❤️ by Nagula Vinay Reddy
