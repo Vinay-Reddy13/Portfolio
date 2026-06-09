@@ -220,7 +220,7 @@ function initTypingEffect() {
     if (!titleElement) return;
     
     const originalText = titleElement.innerHTML;
-    const textToType = 'Hi, I\'m Nagula Vinay Reddy';
+    const textToType = 'Hi, I\'m Vinay Reddy';
     
     titleElement.innerHTML = '';
     titleElement.style.borderRight = '2px solid #fbbf24';
