@@ -12,13 +12,14 @@ This portfolio demonstrates my journey as a **Java Full Stack Developer** with e
 - **AI/ML Integration**: NLP, Vector Search, Machine Learning
 - **Cloud Technologies**: AWS, GCP, Docker, Kubernetes
 - **Database Management**: PostgreSQL, MongoDB, Redis
+- **Testing**: JUnit, Mockito, Integration Testing, API Testing
 
 ## Key Highlights
 
 ### Professional Experience
-- **Software Engineer** at JP Morgan Chase & Co (2023-2024)
-- **1+ Years** of industry experience
-- **8,000+ Lines** of production code contributed
+- **Software Engineer** at JP Morgan Chase & Co (2022-2024)
+- **2+ Years** of industry experience
+- **10K+ Lines** of production code contributed
 - **30% Performance Improvement** achieved through optimization
 
 ### Featured Project: AI Resume Matcher
@@ -43,6 +44,9 @@ This portfolio demonstrates my journey as a **Java Full Stack Developer** with e
 
 ### Frontend Technologies
 - React, Angular, HTML5, CSS3, JSP
+
+### Testing & Quality Engineering
+- JUnit, Mockito, Integration Testing, API Testing
 
 ### Databases
 - MySQL, PostgreSQL, MongoDB, Redis
